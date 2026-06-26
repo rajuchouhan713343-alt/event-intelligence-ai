@@ -1,5 +1,4 @@
 # event-intelligence-ai
-event-intelligence-ai/
 
 ├── agents/
 │   ├── __init__.py
